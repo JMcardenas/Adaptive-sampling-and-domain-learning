@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 Nick Dexter
+Copyright (c) 2022 Juan M. Cardenas
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
